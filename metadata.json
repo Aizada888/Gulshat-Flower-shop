@@ -1,0 +1,6 @@
+{
+  "name": "Gulshat Atelier — Доставка цветов в Бишкеке",
+  "description": "Цветочный бутик и служба авторской доставки букетов по Бишкеку с выбором даты и онлайн-оплатой через MBank, QR и банковские карты.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
